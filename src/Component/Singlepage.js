@@ -51,7 +51,7 @@ const Singlepage = () => {
       </div>
       <div className="col-md-4">
         <div>
-          <p>What's hot</p>
+          <p>Whats hot</p>
           <h3>Most Popular </h3>
           <button className="btn  btn-danger rounded-4">Travel</button>
           <p className="mt-0">amar sonar bangla ami tomay bal ogot good and got </p>
