@@ -11,8 +11,8 @@ const Hero = () => {
       <img style={{height: 350, width: '100%'}} src="images/card2.jpg" alt="/images/heroo.jpg" />
     </div> 
     <div className="heroright">
-      <h5>Hes got good ago and four g ago ago and </h5>
-      <p className="text-secondary">said dhaka mea got good ago and got good got four five months days after the four five hsami gy geegjssvvsvddg hdheld hgood gsdhyougr gd days BNP and good and ago and good and ago ago  years people and view f </p>
+<h5>Lorem ipsum dolor sit amet</h5>
+<p className="text-secondary">said dhaka mea got good ago and got good got four five months days after the four five hsami gy geegjssvvsvddg hdheld hgood gsdhyougr gd days BNP and good and ago and good and ago ago  years people and view f </p>
       <button>Read More</button>
     </div>  
   </div>
